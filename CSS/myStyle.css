@@ -1,0 +1,56 @@
+@charset "UTF-8";
+/*
+.dimensions  th {
+    padding: 10px;
+    margin: 10px;
+	border : 1px dotted gray;
+	background:pink; 
+	
+}
+.dimensions  td {
+    padding: 10px;
+    margin: 10px;
+	border : 1px dotted gray;
+	background:white; 
+	
+}
+*/
+
+h1{
+	size: 10px;
+	text-align: center;
+	
+}
+
+.red{
+	color :red;	
+ }
+ 
+ .spacer{
+	  margin-top: 40px;	
+ }
+ 
+ .login{
+	 background-color: black;
+	 color: white;
+	 text-align: center;
+ }
+ 
+ .erreur{
+	 background-color: red;
+	 color: black;
+	 text-align: center;
+ }
+ 
+ 
+ #redlogin{
+	color :red;	
+ }
+ #greenlogin{
+	 color:#00ff40;	
+ }
+ 
+ #logout{
+	 color: red;
+	 margin-left: 580px;
+ }
